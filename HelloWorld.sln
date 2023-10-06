@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2022
+Project("FAE04EC0-301F-11D3-BF4B-00C04F79EFBC") = "MyApp", "MyApp\MyApp.csproj", "a8be64dc-51f0-4265-92f1-5e864092b828"
+EndProject
+Global
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        a8be64dc-51f0-4265-92f1-5e864092b828.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        a8be64dc-51f0-4265-92f1-5e864092b828.Release|Any CPU.ActiveCfg = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        VisualStudioVersion = 17.0.0.0
+        MinimumVisualStudioVersion = 10.0.40219.1
+    EndGlobalSection
+EndGlobal
+
